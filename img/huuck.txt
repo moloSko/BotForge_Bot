@@ -1,0 +1,28 @@
+{
+  "username": "Натуральный",
+  "avatar_url": "",
+  "content": "",
+  "embeds": [
+    {
+      "color": 15502882,
+      "description": "https://goo.su/skPz",
+      "timestamp": "",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    },
+    {
+      "color": 15502882,
+      "description": "     ```**⭐️ Непонятные RU | Поддержка**```\n\n**Появились проблемы? Хотите предложить идею для сервера? Мы вам поможем!**\n\n```**Чтобы связаться с поддержкой нашего сервера нажмите на кнопку**```",
+      "timestamp": "",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
