@@ -1,2 +1,2 @@
 # BotForge_Bot
-Бот написанный для сервера &lt;https://discord.com/invite/tYsmGs7xNF> можно адаптировать под свой сервер.
+Бот написанный для сервера <a href="https://discord.com/invite/tYsmGs7xNF">ДИСКОРД</a> можно адаптировать под свой сервер.
